@@ -9,9 +9,11 @@ TabTracker is a lightweight Chrome extension that helps you keep track of your o
 4. Customization: Customize settings to tailor the extension to your preferences.
 
 #Installation
--Clone this repository or download the ZIP file.
--Open Chrome and navigate to chrome://extensions/.
--Enable "Developer mode" in the top right corner.
--Click on "Load unpacked" and select the directory where you cloned/downloaded the extension.
- Usage
- -Once the extension is installed, you will see a new icon in your Chrome toolbar. Click on the icon to access the extension's popup interface.
+1. Clone this repository or download the ZIP file.
+2. Open Chrome and navigate to chrome://extensions/.
+3. Enable "Developer mode" in the top right corner.
+4. Click on "Load unpacked" and select the directory where you cloned/downloaded the extension.
+   
+ #Usage:
+ 1. Once the extension is installed, you will see a new icon in your Chrome toolbar. 
+ 2. Click on the icon to access the extension's popup interface.
